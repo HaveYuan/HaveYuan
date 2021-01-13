@@ -2,10 +2,10 @@
 
 ### my blog
 
-<p align="left">[github](https://haveyuan.github.io/)</p>
-<p align="left">[gitee](https://haveyuan.gitee.io/)</p>
-<p align="left">[掘金](https://juejin.cn/user/1961184475480141)</p>
-<p align="left">[简书](https://www.jianshu.com/u/2a2117d7cc5f)</p>
+[github](https://haveyuan.github.io/)    
+[gitee](https://haveyuan.gitee.io/)    
+[掘金](https://juejin.cn/user/1961184475480141)    
+[简书](https://www.jianshu.com/u/2a2117d7cc5f)    
 
 
 <!--
