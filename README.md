@@ -1,4 +1,12 @@
-### Hi there 👋
+<h2 align="left">🤔 掉发中...</h2> 
+
+### my blog
+
+<p align="left">[github](https://haveyuan.github.io/)</p>
+<p align="left">[gitee](https://haveyuan.gitee.io/)</p>
+<p align="left">[掘金](https://juejin.cn/user/1961184475480141)</p>
+<p align="left">[简书](https://www.jianshu.com/u/2a2117d7cc5f)</p>
+
 
 <!--
 **HaveYuan/HaveYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
