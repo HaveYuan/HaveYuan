@@ -7,6 +7,9 @@
 [掘金](https://juejin.cn/user/1961184475480141)    
 [简书](https://www.jianshu.com/u/2a2117d7cc5f)    
 
+### contact me
+
+<p align="left">email: rory_lin@126.com</p>
 
 <!--
 **HaveYuan/HaveYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
